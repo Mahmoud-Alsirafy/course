@@ -1,3 +1,2 @@
 # course
 course
-note 
