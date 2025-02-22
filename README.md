@@ -1,2 +1,7 @@
 # course
 course
+
+note 
+
+thening 
+
